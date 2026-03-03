@@ -14,5 +14,7 @@ game="football"
 country="England"
 
 echo "I" $feeling $game and "I" $feeling "watching" $game "particularly in" $country.
+sleep 5
 echo "Although" $game "is still team sport but is full of violent particulary when play in" $country "even though the" $feeling 
+sleep 10
 echo "for the game is high".

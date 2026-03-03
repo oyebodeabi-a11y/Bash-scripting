@@ -13,6 +13,9 @@ country="England"
 place="country"
 faith="glory"
 echo "Yes I am a" $religion "but at times my faith as a" $religion "has been shaken by various"
+sleep 5
 echo "challenges in my" $place "of birth" $country. "Yes Although" $country "is still a good" $place
+sleep 5
 echo "and still a choice definition for many folks  but it largely now lives on its old" $faith
+sleep 5
 echo "one day the lord will bring back its lost" $faith
